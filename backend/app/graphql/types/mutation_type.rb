@@ -9,5 +9,6 @@ module Types
     #   "Hello World"
     # end
     field :create_book, mutation: Mutations::CreateBook
+    field :update_book, mutation: Mutations::UpdateBook
   end
 end
