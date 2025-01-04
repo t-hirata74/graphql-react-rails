@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "@testing-library/react": "^16.1.0",
+    "@types/react": "^19.0.2",
+    "@types/testing-library__react": "^10.2.0"
+  }
+}
