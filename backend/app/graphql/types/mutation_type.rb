@@ -10,5 +10,6 @@ module Types
     # end
     field :create_book, mutation: Mutations::CreateBook
     field :update_book, mutation: Mutations::UpdateBook
+    field :delete_book, mutation: Mutations::DeleteBook
   end
 end
